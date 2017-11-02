@@ -25,6 +25,7 @@
 /* Begin PBXFileReference section */
 		F2AA2D7B1FA892AB0059D89A /* AMDPatcher */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = AMDPatcher; sourceTree = BUILT_PRODUCTS_DIR; };
 		F2AA2D7E1FA892AB0059D89A /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		F2AA2D851FA8934E0059D89A /* radeon_bios_decode */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.executable"; path = radeon_bios_decode; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +59,7 @@
 			isa = PBXGroup;
 			children = (
 				F2AA2D7E1FA892AB0059D89A /* main.swift */,
+				F2AA2D851FA8934E0059D89A /* radeon_bios_decode */,
 			);
 			path = AMDPatcher;
 			sourceTree = "<group>";

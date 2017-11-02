@@ -8,5 +8,11 @@
 
 import Foundation
 
-print("Hello, World!")
+struct AMDGFXCards {
+    
+}
+
+class AMDPatcher : Process {
+    
+}
 
